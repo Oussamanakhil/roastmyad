@@ -1,0 +1,1 @@
+-- Supabase schema SQL
