@@ -1,1 +1,0 @@
-# RoastIQ scoring endpoint placeholder

@@ -1,1 +1,0 @@
-# GPT roast endpoint placeholder

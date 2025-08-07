@@ -1,1 +1,0 @@
-# RoastIQ scoring logic placeholder

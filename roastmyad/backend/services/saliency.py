@@ -1,1 +1,0 @@
-# saliency scoring logic placeholder
