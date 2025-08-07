@@ -7,6 +7,6 @@ services:
     plan: free
     envVars:
       - key: SUPABASE_URL
-        value: https://your-project.supabase.co
+        value: https://ecyudrlpprqfxccvqkyd.supabase.co
       - key: SUPABASE_KEY
-        value: your-supabase-service-role-key
+        value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVjeXVkcmxwcHJxZnhjY3Zxa3lkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTQxODQ1MDgsImV4cCI6MjA2OTc2MDUwOH0.eLF1amtbtZFGLdUm15fQaU8emmgeBFtr1Z5lFLXJeRE
